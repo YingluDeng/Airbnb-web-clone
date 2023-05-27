@@ -1,17 +1,3 @@
-## Environment Setup
-```bash
-npx create-next-app --typescript
-```
-ESLint -- yes
-
-src/directory -- no
-
-experimental -- yes
-
-Tailwindcss setup: https://tailwindcss.com/docs/installation
-
-
------------------
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
